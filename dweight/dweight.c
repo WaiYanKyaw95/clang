@@ -21,5 +21,5 @@ int main(void)
 	weight = (volume + 165) / 166;
 	printf("Volume (cubic inches): %d\n", volume);
 	printf("Dimensional weight (pounds): %d\n", weight);
-	
+	return 0;	
 }
